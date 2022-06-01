@@ -1,0 +1,32 @@
+<vector android:height="24dp" android:viewportHeight="16"
+    android:viewportWidth="16" android:width="24dp"
+    xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M16,8C16,10.122 15.157,12.157 13.657,13.657C12.157,15.157 10.122,16 8,16C5.878,16 3.843,15.157 2.343,13.657C0.843,12.157 0,10.122 0,8C0,5.878 0.843,3.843 2.343,2.343C3.843,0.843 5.878,0 8,0C10.122,0 12.157,0.843 13.657,2.343C15.157,3.843 16,5.878 16,8">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="8" android:endY="16"
+                android:startX="8" android:startY="1.64" android:type="linear">
+                <item android:color="#FFFEEA70" android:offset="0"/>
+                <item android:color="#FFF69B30" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M3,8.008C3,10.023 4.006,14 8,14C11.993,14 13,10.023 13,8.008C13,7.849 11.39,7 8,7C4.61,7 3,7.849 3,8.008Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="8" android:endY="14"
+                android:startX="8" android:startY="7" android:type="linear">
+                <item android:color="#FF472315" android:offset="0"/>
+                <item android:color="#FF8B3A0E" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M4.541,12.5C5.345,13.495 6.448,14 8.01,14C9.573,14 10.665,13.495 11.469,12.5C10.918,11.912 9.87,11 8.01,11C6.15,11 5.093,11.912 4.541,12.5Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="8.005" android:endY="13.457"
+                android:startX="8.005" android:startY="11" android:type="linear">
+                <item android:color="#FFFC607C" android:offset="0"/>
+                <item android:color="#FFD91F3A" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#2A3755" android:pathData="M6.213,4.144C6.476,4.332 6.715,4.599 6.623,4.932C6.552,5.186 6.429,5.301 6.201,5.303C5.421,5.314 4.493,5.558 3.695,5.915C3.63,5.944 3.498,6.003 3.363,6C3.239,5.997 3.112,5.942 3.036,5.763C2.969,5.606 2.963,5.375 3.312,5.165C3.857,4.835 4.569,4.685 5.221,4.561C4.812,4.258 4.371,4.001 3.906,3.793C3.479,3.599 3.526,3.336 3.583,3.193C3.71,2.876 4.192,2.997 4.661,3.219C5.208,3.474 5.728,3.784 6.213,4.144V4.144ZM9.79,4.144C10.274,3.784 10.793,3.474 11.34,3.219C11.81,2.997 12.29,2.876 12.418,3.193C12.475,3.336 12.522,3.599 12.095,3.793C11.631,4.001 11.191,4.258 10.782,4.561C11.432,4.684 12.145,4.835 12.689,5.165C13.038,5.375 13.031,5.605 12.965,5.763C12.888,5.943 12.762,5.997 12.638,6C12.503,6.003 12.371,5.944 12.306,5.915C11.509,5.558 10.581,5.315 9.802,5.303C9.574,5.301 9.451,5.186 9.38,4.933C9.289,4.6 9.527,4.333 9.79,4.145V4.144Z"/>
+</vector>
